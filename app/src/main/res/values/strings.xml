@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">UserappDesign</string>
+    <string name="friend">--------Invite Your Friends---------</string>
+    <string name="confrm">Confirm</string>
+    <string name="cancel">Back</string>
+    <string name="confirmed">Confirm OTP</string>
+    <string name="send">Enter Otp send on</string>
+    <string name="reset">Reset Your Password?</string>
+    <string name="newP">NEW PASSWORD</string>
+    <string name="REPASS">CONFIRM PASSWORD</string>
+</resources>
